@@ -162,3 +162,7 @@ Design choices: bold titles, large readable fonts (15–30 pt), data labels plac
 ⭐ If you found this project useful, consider giving the repository a star!
 
 *Created as part of my Data Science and AI/ML coursework, Red & White Multimedia Education, Bhavnagar.*
+
+
+Here is the full explaination of this project
+click here:- https://youtu.be/cbCAnpiCjFE?si=FGUurl44mJmT5pMk
